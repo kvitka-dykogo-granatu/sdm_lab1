@@ -3,6 +3,9 @@ This is the codebase for Semantic Data Management Lab Assignment 1 at UPC. It wa
 
 The lab on Property Graphs using Neo4j covers graph modeling, querying, data loading, evolution, and analysis using Cypher and graph algorithms.
 
+![Uploading Знімок екрана 2025-11-18 о 08.29.05.png…]()
+
+
 ## Important Files
 - PartA.2_BaliasinaPatricio_Extraction_Async_Fetching_Fields.py: This script extracts all the needed information from the Semantic Scholar API
 - PartA.2_BaliasinaPatricio_Extraction_References.py: This script extracts all the citations of the papers from Semantic Scholar API.
