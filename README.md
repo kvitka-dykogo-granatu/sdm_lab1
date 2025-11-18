@@ -1,4 +1,4 @@
-# SDM Lab 1
+# SDM Lab 1 - Property Graphs using Neo4j
 This is the codebase for Semantic Data Management Lab Assignment 1 at UPC. It was developed by Adrian Patricio and Olha Baliasina.
 
 The lab on Property Graphs using Neo4j covers graph modeling, querying, data loading, evolution, and analysis using Cypher and graph algorithms.
