@@ -3,7 +3,7 @@ This is the codebase for Semantic Data Management Lab Assignment 1 at UPC. It wa
 
 The lab on Property Graphs using Neo4j covers graph modeling, querying, data loading, evolution, and analysis using Cypher and graph algorithms.
 
-![Uploading Знімок екрана 2025-11-18 о 08.29.05.png…]()
+<img width="1524" height="1532" alt="Знімок екрана 2025-11-18 о 08 29 05" src="https://github.com/user-attachments/assets/845ff474-02e0-4d1d-bc04-036c0e681979" />
 
 
 ## Important Files
